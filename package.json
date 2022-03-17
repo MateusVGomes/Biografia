@@ -1,8 +1,0 @@
-
-$ npm init package-json
-$ npx create-package-json
-
-# or
-
-$ npm install -g create-package-json
-$ create-package-json
